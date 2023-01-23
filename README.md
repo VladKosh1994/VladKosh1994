@@ -1,7 +1,5 @@
 ### Hi there 👋, My name is Vladislav
 #### I am Product Analyst
-![I am Product Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I am looking for a first product analyst job to start a great career
 
 Skills: Python / SQL / PostgreSQL / ClickHouse / Git / Tableau
