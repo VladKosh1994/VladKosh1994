@@ -1,4 +1,4 @@
-### <div align="center">I'm Vladislav, a product analyst 👨‍💻 </div>  
+### <div align="left">I'm Vladislav, a product analyst 👨‍💻 </div>  
   
 
 - 💻 I am looking for a job  
