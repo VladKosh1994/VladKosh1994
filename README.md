@@ -5,7 +5,7 @@ I am looking for a first product analyst job to start a great career
 Skills: Python / SQL / PostgreSQL / ClickHouse / Git / Tableau
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Python and SQL for data analysis 
+- 🌱 I’m currently learning Airflow and Statistic
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VladKosh1994)  
