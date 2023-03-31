@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Vladislav
-#### I product analyst
+#### I am product analyst
 I am looking for a first product analyst job to start a great career
 
 Skills: Python / SQL / PostgreSQL / ClickHouse / Git / Tableau / Redash / Airflow
