@@ -2,7 +2,7 @@
 #### I am product analyst
 I am looking for a first product analyst job to start a great career
 
-Skills: Python / SQL / PostgreSQL / ClickHouse / Git / Tableau / Redash / Airflow
+Skills: Python / SQL / PostgreSQL / ClickHouse / Git / Tableau / Redash / Power BI / Airflow
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VladKosh1994)  
